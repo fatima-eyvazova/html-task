@@ -348,3 +348,10 @@ nav {
     background-image: none;
     box-shadow: none
 }
+
+.map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
